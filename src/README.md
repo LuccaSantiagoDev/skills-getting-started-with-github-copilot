@@ -52,10 +52,10 @@ All data is stored in memory, which means data will be reset when the server res
 
 ## Running Tests
 
-Install the development dependencies from the repository root:
+Install the dependencies from the repository root:
 
 ```
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 ```
 
 Run the backend tests from the repository root:
